@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\taifa\\OneDrive\\Desktop\\FinalProg\\FinalProg.csproj": {}
+    "C:\\Users\\taifa\\OneDrive\\Desktop\\FinalProg\\FinalProg.csproj": {}
   },
   "projects": {
-    "c:\\Users\\taifa\\OneDrive\\Desktop\\FinalProg\\FinalProg.csproj": {
+    "C:\\Users\\taifa\\OneDrive\\Desktop\\FinalProg\\FinalProg.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\taifa\\OneDrive\\Desktop\\FinalProg\\FinalProg.csproj",
+        "projectUniqueName": "C:\\Users\\taifa\\OneDrive\\Desktop\\FinalProg\\FinalProg.csproj",
         "projectName": "FinalProg",
-        "projectPath": "c:\\Users\\taifa\\OneDrive\\Desktop\\FinalProg\\FinalProg.csproj",
+        "projectPath": "C:\\Users\\taifa\\OneDrive\\Desktop\\FinalProg\\FinalProg.csproj",
         "packagesPath": "C:\\Users\\taifa\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\taifa\\OneDrive\\Desktop\\FinalProg\\obj\\",
+        "outputPath": "C:\\Users\\taifa\\OneDrive\\Desktop\\FinalProg\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\taifa\\AppData\\Roaming\\NuGet\\NuGet.Config"
