@@ -1,0 +1,15 @@
+c:\Users\taifa\OneDrive\Desktop\FinalProg\bin\Debug\net8.0\FinalProg.exe
+c:\Users\taifa\OneDrive\Desktop\FinalProg\bin\Debug\net8.0\FinalProg.deps.json
+c:\Users\taifa\OneDrive\Desktop\FinalProg\bin\Debug\net8.0\FinalProg.runtimeconfig.json
+c:\Users\taifa\OneDrive\Desktop\FinalProg\bin\Debug\net8.0\FinalProg.dll
+c:\Users\taifa\OneDrive\Desktop\FinalProg\bin\Debug\net8.0\FinalProg.pdb
+c:\Users\taifa\OneDrive\Desktop\FinalProg\obj\Debug\net8.0\FinalProg.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\taifa\OneDrive\Desktop\FinalProg\obj\Debug\net8.0\FinalProg.AssemblyInfoInputs.cache
+c:\Users\taifa\OneDrive\Desktop\FinalProg\obj\Debug\net8.0\FinalProg.AssemblyInfo.cs
+c:\Users\taifa\OneDrive\Desktop\FinalProg\obj\Debug\net8.0\FinalProg.csproj.CoreCompileInputs.cache
+c:\Users\taifa\OneDrive\Desktop\FinalProg\obj\Debug\net8.0\FinalProg.sourcelink.json
+c:\Users\taifa\OneDrive\Desktop\FinalProg\obj\Debug\net8.0\FinalProg.dll
+c:\Users\taifa\OneDrive\Desktop\FinalProg\obj\Debug\net8.0\refint\FinalProg.dll
+c:\Users\taifa\OneDrive\Desktop\FinalProg\obj\Debug\net8.0\FinalProg.pdb
+c:\Users\taifa\OneDrive\Desktop\FinalProg\obj\Debug\net8.0\FinalProg.genruntimeconfig.cache
+c:\Users\taifa\OneDrive\Desktop\FinalProg\obj\Debug\net8.0\ref\FinalProg.dll
